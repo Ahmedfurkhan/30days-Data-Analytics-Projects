@@ -1,2 +1,33 @@
 # Data-Analytics-Projects
- 
+
+- Day-1 | Introduction to A.I & Data Analytics
+- Day-2 | Power Query - Excel
+- Day-3 | Formula & Pivot Table - Excel 
+- Day-4 | Dashboard & Charts - Excel
+- Day-5 | VBA Macros Automation - Excel
+- Day-6 | Statistics
+--- Use case of Statistics in Data | Python - Land Price Prediction Data
+- Day-7 | Permutation & Combination_Probability
+- Day-8 | Population and Sampling
+- Day-9 | Probability Distribution
+- Day-10 | Hypothesis Testing
+- Day-11 | Introduction to Tableau - BI Tools
+- Day-12 | Analyze & Processing Data using Tableau - BI Tools
+- Day-13 | Creating Dashboard on Tableau - BI Tools
+- Day-14 | Introduction to PowerBI - BI Tools
+- Day-15 | Dashboard on PowerBI & PowerBI.com - BI Tools
+- Day-16 | Exploring Python Notebooks & Installing Libraries
+- Day-17 | Basic Python Programming for Data Analytics
+- Day-18 | Numerical Python (Numpy)
+- Day-19 | Pandas - Data Manipulation
+- Day-20 | Matplotlib - Data Visualization
+- Day-21 | Seaborn - Data Visualization
+- Day-22 | Kaggle - Dataset, Notebook & Competition
+- Day-23 | MySQL Database
+- Day-24 | SQL Python
+- Day-25 | NoSQL - MongoDB
+- Day-26 | Introduction to Machine Learning
+- Day-27 | Evaluating & Deploying Machine Learning Algorithm
+- Day-28 | Introduction to Deep Learning
+- Day-29 | Covid-19 Detection from X-Ray Images using CNN
+- Day-30 | Tag Identification using NLP
