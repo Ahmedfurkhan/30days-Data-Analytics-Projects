@@ -1,6 +1,7 @@
 # Data-Analytics-Projects
 
-- Day-1 | Introduction to A.I & Data Analytics
+- Day-1 | [Introduction to A.I & Data Analytics](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Introduction-to-AI-and-Data-Analytics)
+  
 - Day-2 | Power Query - Excel
 - Day-3 | Formula & Pivot Table - Excel 
 - Day-4 | Dashboard & Charts - Excel
