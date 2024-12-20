@@ -2,12 +2,12 @@
 
 - Day-1 | [Introduction to A.I & Data Analytics](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Introduction-to-AI-and-Data-Analytics)
   
-- Day-2 | Power Query - Excel
-- Day-3 | Formula & Pivot Table - Excel 
-- Day-4 | Dashboard & Charts - Excel
-- Day-5 | VBA Macros Automation - Excel
-- Day-6 | Statistics
---- Use case of Statistics in Data | Python - Land Price Prediction Data
+- Day-2 | [Power Query - Excel](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Power%20Query%20-%20Excel)
+- Day-3 | [Formula & Pivot Table - Excel](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Formula%20%26%20Pivot%20Table%20-%20Excel/3_FormulaPivotTable_ExcelInternship) 
+- Day-4 | [Dashboard & Charts - Excel](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Dashboard%20%26%20Charts%20-%20Excel)
+- Day-5 | [VBA Macros Automation - Excel](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/VBA%20Macros%20Automation%20-%20Excel)
+- Day-6 | [Statistics
+--- Use case of Statistics in Data | Python - Land Price Prediction Data](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Statistics%20---%20Use%20case%20of%20Statistics%20in%20Data%20%20Python%20-%20Land%20Price%20Prediction%20Data)
 - Day-7 | Permutation & Combination_Probability
 - Day-8 | Population and Sampling
 - Day-9 | Probability Distribution
