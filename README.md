@@ -7,10 +7,10 @@
 - Day-4 | [Dashboard & Charts - Excel](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Dashboard%20%26%20Charts%20-%20Excel)
 - Day-5 | [VBA Macros Automation - Excel](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/VBA%20Macros%20Automation%20-%20Excel)
 - Day-6 | [Statistics --- Use case of Statistics in Data | Python - Land Price Prediction Data](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Statistics%20---%20Use%20case%20of%20Statistics%20in%20Data%20%20Python%20-%20Land%20Price%20Prediction%20Data)
-- Day-7 | Permutation & Combination_Probability
-- Day-8 | Population and Sampling
-- Day-9 | Probability Distribution
-- Day-10 | Hypothesis Testing
+- Day-7 | [Permutation & Combination_Probability](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Permutation%20%26%20Combination_Probability)
+- Day-8 | [Population and Sampling](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Population%20and%20Sampling)
+- Day-9 | [Probability Distribution](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Probability%20Distribution)
+- Day-10 | [Hypothesis Testing](https://github.com/Ahmedfurkhan/30days-Data-Analytics-Projects/tree/main/Hypothesis%20Testing)
 - Day-11 | Introduction to Tableau - BI Tools
 - Day-12 | Analyze & Processing Data using Tableau - BI Tools
 - Day-13 | Creating Dashboard on Tableau - BI Tools
